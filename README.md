@@ -1,2 +1,2 @@
 # 2026-oop2-github-task2
-# I am Rintaro
+# I am Rin
